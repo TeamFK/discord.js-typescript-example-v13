@@ -5,14 +5,16 @@ A simple template using TypeScript for Discord.JS
 Make sure to set your settings in `example.env` and rename it to just `.env`
 
 Installing & Building:
-```
-git clone https://github.com/TeamFK/discord.js-typescript-example-v13.git
 
-cd discord.js-typescript-example-v13
+[Node.JS v16+ Required](https://nodejs.org)
 
-npm i
+```git clone https://github.com/TeamFK/discord.js-typescript-example-v13.git```
 
-npm run build
+```cd discord.js-typescript-example-v13```
 
-npm run start
-```
+```npm i```
+
+```npm run build```
+
+```npm run start```
+
